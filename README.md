@@ -11,26 +11,15 @@
 - Mainly focused on **Python**  
 - Interested in **cybersecurity** (but not my main focus)  
 - Passionate about technology since childhood  
-- Always learning and building impactful projects  
+- Always learning and building impactful projects
 
 ---
 
-## 🚀 Tech Stack
+<!-- One-line Tech Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,ts,react,cs,cpp,java,nodejs,fastapi,sqlite,git,github,vscode" />
+</p>
 
-### **Back-end**
-<div>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,c,java" />
-</div>
-
-### **Front-end**
-<div>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" />
-</div>
-
-### **Other Skills**
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
-</div>
 
 ---
 
