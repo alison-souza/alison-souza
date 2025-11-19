@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- Minimalistic animated banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Alison+Souza.;Fullstack+Developer.;Python+Focused.;Welcome+to+my+GitHub!+" />
+</p>
 
-<!--
-**alison-souza/alison-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fullstack Developer  
+- Mainly focused on **Python**  
+- Interested in **cybersecurity** (but not my main focus)  
+- Passionate about technology since childhood  
+- Always learning and building impactful projects  
+
+---
+
+## 🚀 Tech Stack
+
+### **Back-end**
+<div>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,c,java" />
+</div>
+
+### **Front-end**
+<div>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" />
+</div>
+
+### **Other Skills**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alison-souza&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alison-souza&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+- **GitHub:** https://github.com/alison-souza  
+- **LinkedIn:** https://www.linkedin.com/in/alison-souza-dev/  
+- **Email:** alison.sxuzx@gmail.com
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
