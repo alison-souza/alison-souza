@@ -29,6 +29,12 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alison-souza&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align=center>
+
+<img src="https://raw.githubusercontent.com/alison-souza/alison-souza/output/snake.svg" alt="Snake animation" />
+
+</div>
+
 ---
 
 ## 🌐 Connect With Me
