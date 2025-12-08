@@ -1,6 +1,6 @@
 <!-- Minimalistic animated banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Alison+Souza.;Fullstack+Developer.;Python+Focused.;Welcome+to+my+GitHub!+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Alison+Souza.;Fullstack+Developer.;Python+Focused.;Welcome+to+my+GitHub!" />
 </p>
 
 ---
@@ -20,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,ts,react,cs,cpp,java,nodejs,fastapi,sqlite,git,github,vscode" />
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -29,10 +28,8 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alison-souza&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align=center>
-
-<img src="https://raw.githubusercontent.com/alison-souza/alison-souza/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alison-souza/alison-souza/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
