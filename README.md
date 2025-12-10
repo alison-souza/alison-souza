@@ -15,6 +15,8 @@
 
 ---
 
+## 💻 Languages ​​and Technologies
+
 <!-- One-line Tech Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,js,ts,react,cs,cpp,java,nodejs,fastapi,sqlite,git,github,vscode" />
