@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 <div>
-  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=alison-souza0611&show_icons=true&theme=dracula">
+  <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=alison-souza&show_icons=true&theme=dracula">
   <img height="140em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=alison-souza&layout=compact&langs_count=16&theme=dracula">
 </div>
 
